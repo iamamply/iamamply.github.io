@@ -13,3 +13,10 @@ body {
     margin: 1rem;
     background-color: yellow;    
 }
+.table {
+    margin: 0px auto;
+}
+.table tr td {
+    border: dotted 1px green;
+    padding: 1rem;
+}
