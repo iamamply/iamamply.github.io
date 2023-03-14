@@ -5,3 +5,8 @@
 body {
     background-color: #eee;
 }
+.menu > li {
+    display: inline-block;
+    margin: 1rem;
+    background-color: yellow;    
+}
