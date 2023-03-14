@@ -11,7 +11,11 @@ body {
 .menu > li {
     display: inline-block;
     margin: 1rem;
+<<<<<<< HEAD
     background-color: black;
+=======
+    background-color: blue;    
+>>>>>>> 397f6dd3fe99c39c9d608784b2af1fc061a60e90
 }
 .table {
     margin: 0px auto;
