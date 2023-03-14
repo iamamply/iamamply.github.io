@@ -5,6 +5,9 @@
 body {
     background-color: #eee;
 }
+.menu {
+    text-align: center;
+}
 .menu > li {
     display: inline-block;
     margin: 1rem;
